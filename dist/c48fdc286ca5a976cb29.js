@@ -1,0 +1,1 @@
+!function(){var e=1,o=function(e){return document.getElementById("hole".concat(e))};!function n(){return setTimeout((function(){var t;o(e).className="hole",t=e=Math.floor(1+16*Math.random()),o(t).className="hole hole_has-mole",n()}),1e3)}()}();
